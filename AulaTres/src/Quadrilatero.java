@@ -1,4 +1,3 @@
-public abstract class Quadrilatero
-	extends Figura {
+public abstract class Quadrilatero extends Figura {
 
 }
