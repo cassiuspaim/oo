@@ -11,9 +11,9 @@ public class Pessoa {
 	
 	//getters e setters omitidos
 	// Relacionamento com a classe Carro
-    //private List<Carro> carros = new ArrayList<Carro>();
+	//private List<Carro> carros = new ArrayList<Carro>();
 	// Relacionamento com a classe Carro
-    private Carro carro;
+	private Carro carro;
 
 	public String getNome() {
 		return nome + " " + carro.getModelo();
