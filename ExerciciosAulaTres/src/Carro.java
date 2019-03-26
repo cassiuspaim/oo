@@ -14,6 +14,7 @@ public class Carro {
 	public String chassi;
 	
 	public int anoModelo;
+	//public Integer anoModelo;
 	
 	public int anoFabricacao;
 	
