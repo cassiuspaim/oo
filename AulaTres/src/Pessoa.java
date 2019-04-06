@@ -47,6 +47,14 @@ public class Pessoa {
 		this.dataNascimento = dataNascimento;
 	}
 
+//	public List<Carro> getCarros() {
+//		return carros;
+//	}
+//
+//	public void setCarros(List<Carro> carros) {
+//		this.carros = carros;
+//	}
+
 	 public Carro getCarro() {
 		 return carro;
 	 }

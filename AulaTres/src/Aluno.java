@@ -29,5 +29,10 @@ public class Aluno extends Pessoa {
 	public void setMensalidade(float mensalidade) {
 		this.mensalidade = mensalidade;
 	}
+	
+	public String getNome() {
+		return super.getNome();
+		
+	}
 
 }
